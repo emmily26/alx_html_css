@@ -1,26 +1,41 @@
-# CSS Advanced — ALX Project
+# CSS Advanced Project
 
-This project is part of the ALX Front-End curriculum. The objective is to build a complete webpage using **semantic HTML structure**, ready to be styled using CSS.
+This project is part of the **ALX Front-End Web Development Programme**.
 
-## 🧠 Learning Objectives
+The objective of this project is to build a complete HTML page structure based on the **HTML Advanced** project, which will later be styled using **CSS** following a Figma design.
 
-- Write clean and well-structured HTML
-- Build a full webpage layout
-- Use semantic elements for accessibility
-- Prepare HTML for advanced CSS styling
+---
 
-## 📂 Project Structure## 
-## 🏗️ Webpage Sections
-- Header with navigation
-- Hero / Banner section
-- Content sections with images & text
-- Quote / Testimonial area
-- Call-to-action section
-- Footer
+## 🎯 Project Objectives
 
-## 🚀 Usage
+- Create a full HTML page using semantic HTML
+- Follow the structure provided in the HTML Advanced concept
+- Prepare the page for advanced CSS styling
+- Practice professional project documentation
 
-Open the file below in your browser:
+---
+
+## 📸 Project Preview
+
+![Project Preview](preview.png)
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- Figma (Design reference)
+- Git & GitHub
+- Visual Studio Code
+
+---
+
+## 📂 Project Structure
+
+
+---
+
 ## 👩🏽‍💻 Author
 
-This project is completed as part of the **ALX Software Engineering Programme**.
+**Emmily Sidi**
+
